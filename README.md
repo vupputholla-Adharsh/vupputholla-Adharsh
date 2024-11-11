@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adharsh</h1>
-<p align="center">- I am a Front-end web developer, I have done militry style coding and learnt Front-end Development by my Own. I have various individual projects in my coding journey.
+<p align="center">- I am a Aspiring Full Stack web developer, I have done militry style coding and learnt Full Stack Development by my Own. I have various individual projects in my coding journey.
     I also did my Graduation 🎓 from Sri Krishndevaraya University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
    </p>
@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="ChakraUI">
--    <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/> -->
+    <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/> -->
     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/>
-<!-     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> 
 
 </p>
