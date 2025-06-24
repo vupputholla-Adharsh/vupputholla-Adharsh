@@ -10,7 +10,7 @@
 
 - 🌱 "I'm currently Learning  MERN STACK Developement in Depth"
 
-- 📫 How to reach me **powerstaradarsh12345@gmail.com**
+- 📫 How to reach me **vupputhollaadarsh@gmail.com**
   
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://vupputholla-adarsh.github.io/])
   
