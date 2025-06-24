@@ -40,11 +40,11 @@
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vupputholla-adarsh&show_icons=true&locale=en&layout=compact" alt="vupputholla-Adharsh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vupputholla-Adharsh&show_icons=true&locale=en&layout=compact" alt="vupputholla-Adharsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vupputholla-adarsh&" alt="vupputholla-adarsh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vupputholla-Adharsh&" alt="vupputholla-Adharsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vupputholla-adarsh&show_icons=true&locale=en" alt="vupputholla-adarsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vupputholla-Adharsh&show_icons=true&locale=en" alt="vupputholla-Adharsh" /></p>
 
 
 
