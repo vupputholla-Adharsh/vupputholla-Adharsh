@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **powerstaradarsh12345@gmail.com**
   
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://vupputholla-adarsh.github.io/](https://vupputholla-adharsh.github.io/))
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://vupputholla-adharsh.github.io/])
   
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vupputholla-adarsh-8198a4291/)
 
