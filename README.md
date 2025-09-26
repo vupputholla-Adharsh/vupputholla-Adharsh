@@ -61,8 +61,8 @@
 
 #### 📅 **TaxTim
 **
-- Tech Stack: HTML,CSS,JS
-- Features:  filters and responsive UI
+- Tech Stack: HTML | CSS | JavaScript | Firebase | Rozorpay | React | Redux
+- Features: Secure user authentication with Firebase, seamless payment integration using Razorpay, and a responsive, accessible UI built with React and Chakra UI.
 - 🔗 [Live Demo](https://super-peony-e095c9.netlify.app/)
 - 🔗 [GitHub Repo](https://github.com/vupputholla-adarsh/TaxTim)
 
