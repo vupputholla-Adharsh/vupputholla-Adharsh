@@ -1,53 +1,84 @@
-<h1 align="center">Hi 👋, I'm Adharsh</h1>
-<p align="center">- I am a Aspiring Full Stack web developer, I have done militry style coding and learnt Full Stack Development by my Own. I have various individual projects in my coding journey.
-    I also did my Graduation 🎓 from Sri Krishndevaraya University 🏛. 
-     My interests are coding, reading about planets, browsing, exploring new areas.
-   </p>
+<h1 align="center">Hi 👋, I'm Adharsh </h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
-
-<br>
-
-- 🌱 "I'm currently Learning  MERN STACK Developement in Depth"
-
-- 📫 How to reach me **vupputhollaadarsh@gmail.com**
-  
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://vupputholla-adarsh.github.io/])
-  
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vupputholla-adarsh-8198a4291/)
-
-
-<br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="35" alt="HTML"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" alt="CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
-    <img src="https://img.shields.io/badge/Netlify-319795?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="35" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100" height="35" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="35" alt="MongoDB"/>
-<!--     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> -->
-    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="ChakraUI">
-    <img src="https://img.shields.io/badge/Vercel-404D59?style=for-the-badge" width="100" height="35" alt="Vercel"/> 
-<!--     <img src="https://img.shields.io/badge/Render-404D59?style=for-the-badge" width="100" height="35" alt="Render"/> -->
-<!--     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> -->
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> 
-
-</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Projects+%26+Solving+Problems" alt="Typing SVG" />
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vupputholla-Adharsh&show_icons=true&locale=en&layout=compact" alt="vupputholla-Adharsh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vupputholla-Adharsh&" alt="vupputholla-Adharsh" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vupputholla-Adharsh&show_icons=true&locale=en" alt="vupputholla-Adharsh" /></p>
+- 🎓 I have completed **Full Stack Web Development course at Masai School**  
+- 💼 I build scalable and performant full stack applications  
+- 🔭 I’m currently working on real-world projects to improve my skills  
+- 📫 How to reach me: **vupputhollaadarsh@gmail.com**  
+- 🌱 Currently improving my knowledge in **System Design**
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
+
+#### 🛠️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
 
+#### 📦 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📌 Pinned Projects
+
+#### 🛍️ **Nyka**
+- Tech Stack:  HTML | CSS | JavaScript
+- Features: User auth, product filters, cart & order management
+- 🔗 [Live Demo](https://nykastore.netlify.app/)
+- 🔗 [GitHub Repo](https://github.com/vupputholla-adarsh/Nyka_Store)
+
+---
+
+#### 🎬 **Green Paradise UI**
+- Tech Stack:- HTML | CSS | JavaScript | Firebase | Rozorpay
+- Features: Browse and search for a wide range of plants
+, responsive design
+- 🔗 [Live Demo](https://geenparadise.netlify.app/)
+- 🔗 [GitHub Repo](https://github.com/vupputholla-adarsh/Green_Paradise)
+
+---
+
+#### 📅 **TaxTim
+**
+- Tech Stack: HTML,CSS,JS
+- Features:  filters and responsive UI
+- 🔗 [Live Demo](https://super-peony-e095c9.netlify.app/)
+- 🔗 [GitHub Repo](https://github.com/vupputholla-adarsh/TaxTim)
+
+---
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
+### 🌐 Let's Connect
+
+<p>
+  <a href="www.linkedin.com/in/vupputholla-adarsh" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedi" />
+  </a>
+  <a href="vupputhollaaradarsh@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vupputholla-adharsh.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white" />
+  </a>
+</p>
