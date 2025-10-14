@@ -74,7 +74,7 @@
   <a href="www.linkedin.com/in/vupputholla-adarsh" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedi" />
   </a>
-  <a href="vupputhollaaradarsh@gmail.com">
+  <a href="vupputhollaadarsh@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://vupputholla-adharsh.github.io/" target="_blank">
