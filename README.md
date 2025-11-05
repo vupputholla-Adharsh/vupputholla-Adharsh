@@ -71,13 +71,14 @@
 ### 🌐 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/vupputholla-adarsh" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedi" />
+  <a href="https://www.linkedin.com/in/vupputholla-adarsh" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="vupputhollaadarsh@gmail.com">
+  <a href="mailto:vupputhollaadarsh@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://vupputholla-adharsh.github.io/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white" />
   </a>
 </p>
+
